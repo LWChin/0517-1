@@ -8,7 +8,12 @@ This course require student to use the vs code to develop our project and push t
  2. New a repository on the github
  ![image](https://tpc.googlesyndication.com/simgad/9549650618387994524)
  4. Open VS code then git clone this repository
-  ```text
+  ```text 法1
+  git clone https://github.com/huanchen1107/0517.git
+  ```
+
+  ```text 法2
+ 
     echo "# 0517" >> README.md
   	git init
   	git add README.md
@@ -20,3 +25,6 @@ This course require student to use the vs code to develop our project and push t
 	git config --global user.name "John Doe"
     git config --global user.email johndoe@example.com
   ```
+
+5. 安裝 python extension module in vs code (package controller)
+
