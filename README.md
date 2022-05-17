@@ -1,4 +1,4 @@
-# 0517 
+# 0517 v2
 AIoT Lecture 14 Practice (0517): \
 <b>Project Goal </b>
 We are going to develop an AIoT web using Flask. 
@@ -16,4 +16,7 @@ This course require student to use the vs code to develop our project and push t
   	git branch -M main
   	git remote add origin https://github.com/huanchen1107/0517.git
   	git push -u origin main
+
+	git config --global user.name "John Doe"
+    git config --global user.email johndoe@example.com
   ```
